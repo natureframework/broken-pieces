@@ -1,1 +1,2 @@
 matthew 5 3-12
+john 8 12
