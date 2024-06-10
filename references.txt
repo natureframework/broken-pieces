@@ -1,2 +1,3 @@
 matthew 5 3-12
+luke 21 34-36
 john 8 12
